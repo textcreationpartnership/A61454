@@ -1,0 +1,351 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the ceremonies at the creating of the Knights of the Honourable Order of the Bath, the 18. &amp; 19., April, 1661 with a perfect list of their names in the same order as they were knighted by His Majesty.</title>
+            <author>Stephens, Philemon.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61454</idno>
+            <idno type="STC">Wing S5453</idno>
+            <idno type="STC">ESTC R14145</idno>
+            <idno type="EEBO-CITATION">13589048</idno>
+            <idno type="OCLC">ocm 13589048</idno>
+            <idno type="VID">100619</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61454)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100619)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 851:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the ceremonies at the creating of the Knights of the Honourable Order of the Bath, the 18. &amp; 19., April, 1661 with a perfect list of their names in the same order as they were knighted by His Majesty.</title>
+                  <author>Stephens, Philemon.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Philemon Stephens ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title: The ceremonies at installing the Knights of the Honourable Order of the Bath, 19 April 1661.</note>
+                  <note>"Advertisement" signed: Philemon Stephens.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Order of the Bath.</term>
+               <term>Knights and knighthood --  England --  Early works to 1800.</term>
+               <term>Knights and knighthood --  Early works to 1800.</term>
+               <term>Knights and knighthood --  England --  Registers.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100619:1"/>
+            <!-- PDF PAGE 90 -->
+            <pb facs="tcp:100619:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 90 -->
+            <p>A TRUE RELATION OF THE Ceremonies At the CREATING of the KNIGHTS Of the Honourable ORDER of the BATH, the 18, &amp; 19. <hi>April</hi> 1661.</p>
+            <p>With a Perfect LIST of their Names, in the ſame Order as they were Knighted by His MAJESTY.</p>
+            <q>In uno tria juncta.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Philemon Stephens,</hi> at the <hi>Kings-Armes</hi> over againſt the <hi>Middle-Temple</hi>-Gate in <hi>Fleet-ſtreet.</hi>
+            </p>
+         </div>
+         <div type="notice">
+            <pb n="2" facs="tcp:100619:2"/>
+            <!-- PDF PAGE 91 -->
+            <head>Advertiſement.</head>
+            <p>THe Reader may pleaſe to take notice, That the Manner of Creating the Knights of the Antient and Honourable Order of the <hi>Bath,</hi> lately Printed by <hi>Philemon Stephens,</hi> was neither Falſe nor Errone<g ref="char:EOLhyphen"/>ous, (as ſome would have it) but was <hi>Verbatim</hi> taken out of Mr. <hi>Dugdales</hi> learned Deſcription of <hi>War<g ref="char:EOLhyphen"/>wick-ſhire,</hi> (fo. <hi>531.</hi>) and onely wanted this Adver<g ref="char:EOLhyphen"/>tiſement, That that was the Antient manner uſed before the <hi>Reformation,</hi> which is now in many par<g ref="char:EOLhyphen"/>ticulars altered, and in ſome abrogated.</p>
+            <p>Since that <hi>Pamphlet</hi> was publiſhed, the <hi>News-Book</hi> (which came out the <hi>25</hi> of <hi>April</hi>) Pretends to tell you the Formalities; but is both Defective in many parti<g ref="char:EOLhyphen"/>culars, and Erroneous in others. As that the Knights met on <hi>Thurſday 10</hi> of <hi>April,</hi> And that the next day they Dined in the <hi>Painted-Chamber,</hi> &amp;c.</p>
+            <p>This <hi>Paper</hi> therefore offers you an Exact Account of all the <hi>Formalities</hi> and <hi>Ceremonies,</hi> from dili<g ref="char:EOLhyphen"/>gent Obſervers, preſent at them All; And a perfect Liſt of the Knights, in ſuch Order as his Majeſty was pleaſed to Confer that Honour upon them.</p>
+            <closer>
+               <signed>Philemon Stephens</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:100619:2"/>
+            <!-- PDF PAGE 91 -->
+            <head>The Ceremonies at Inſtalling the Knights of the Honourable Order of the <hi>BATH, 19</hi> April <hi>1661.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">O</seg>N <hi>Thurſday</hi> (18 <hi>April</hi> 1661) thoſe Lords and Gentlemen, who were by his Majeſties Command, cal<g ref="char:EOLhyphen"/>led by the Lord Chamberlains Letter, to be Knights of the Bath, met about four of the Clock in the Afternoon, at the Court of Requeſts at <hi>Weſtminſter,</hi> where the Duke of <hi>Ormond,</hi> the Earles of <hi>Northumberland, Suffolk, Lindſey,</hi> and <hi>Mancheſter,</hi> His Majeſties Commiſſioners for that purpoſe, Sate, attended by Sir <hi>Edward Walker,</hi> Garter, Principal King at Arms, and other Heralds, and by Sir <hi>John Eaton,</hi> Huiſſier of the Black Rod, and called over a Liſt of the Names of thoſe Perſons, in ſuch order as they had been Ranck<g ref="char:EOLhyphen"/>ed by the ſaid Lords Commiſſioners, which was for the moſt part according to their proper places.</p>
+            <p>Of the whole Number in the Liſt, only 3 or 4 were abſent, ſo that 68 onely Appeared and An<g ref="char:EOLhyphen"/>ſwered to their Names, and were Directed by the Heralds to proceed orderly towards <hi>Henry</hi> the 7ths Chappel, the Junior Knights firſt, each between his two Eſquires, and the Page following him; both Knights and Eſquires were then in their ordinary
+<pb n="4" facs="tcp:100619:3"/>
+               <!-- PDF PAGE 92 -->Habits, moſt Regularly in Black, ſome of the Heralds going before them, with their Coats of Office upon their Armes.</p>
+            <p>When they came to the Chappel, every Knight made the wonted Reverence to the Altar, and ſo tooke his Seat; Evening Song being done, they were again called in order by the Heralds, the Junior Knight firſt, did like Reverence, and went back in like order to the <hi>Painted Chamber</hi> and Rooms ad<g ref="char:EOLhyphen"/>joyning, where they Repoſed themſelves till Sup<g ref="char:EOLhyphen"/>per was ready, which conſiſted of at leaſt 200 diſhes of meat, beſides a noble Service of Sweet-meats at his Majeſties Charges.</p>
+            <p>This Supper was in Court of Requeſts, where a continued long Table was ſet up all along one ſide of the Room, an Eſcutcheon of the Knights Armes affixed upon the Hangings in order as they were firſt called, which was a perfect Index to direct the Knights to their proper places, and a means for the Eſquires and Pages to find their Knights, the crowd of people being great.</p>
+            <p>The Knights being placed on the Wall ſide, each under his Eſcutcheon of Armes, the Eſquires ſtood oppoſite to them on the other ſide the Table; the Antient Cuſtome it ſeems was, that the Knights ſhould ſit demurely for ſome time with the meat be<g ref="char:EOLhyphen"/>fore them and eat nothing, but retire and leave it to their Eſquires, but that Cuſtome having former<g ref="char:EOLhyphen"/>ly been broken, it was ſo now alſo.</p>
+            <p>The Eſquires ſtood bare for a ſhort time, till the Knights had begun to eat, and then the Eſquires (ei<g ref="char:EOLhyphen"/>ther by Right, or by their Permiſſion) were covered,
+<pb n="5" facs="tcp:100619:3"/>
+               <!-- PDF PAGE 92 -->and did eat alſo, but ſtood all Supper time.</p>
+            <p>About one of the clock in the morning, Supper being ended, the <hi>Lord Cornwallis</hi> and Sir <hi>Charles Berkley,</hi> the Treaſurer and Comptroler of his Ma<g ref="char:EOLhyphen"/>jeſties Houſhold, bade them Welcome in his Majeſties Name, and then conducted them to the <hi>Painted Chamber,</hi> where, and in the Lords Houſe, and other Roomes adjoyning, their Bathing Tubs and Beds (which were Pallets, with Canopies) were prepared; which Canopies were of Red Say, and the Veſſels were covered with the ſame, and at the Teſter of every Bed alike Eſcutcheon of the Knights Armes was ſet up ſeverally, which directed each of them to his ſeverall Appartiment or Stall.</p>
+            <p>The Linnen (which was 24 Ells of Holland for every Bathing-Tub,) was provided by his Majeſties Barber, (at the Knights charge) and is part of his Fee; and after the Knights had bath'd themſelves more or leſſe, as they pleaſed, they went to bed, and early in the morning were bid Good Morrow by his Majeſties Muſick of ſeverall kinds. Then ariſing and Apparelling themſelves in a Hermit or Cordeliers ha<g ref="char:EOLhyphen"/>bit, (being a long Ruſſed Gown with wide Sleeves and Hoods tyed cloſe about the middle with a Cor<g ref="char:EOLhyphen"/>don of Aſh colour'd and Ruſſed Silk, reaching down almoſt to the Knees, and a Handkerchef hanging thereat) they proceeded to King <hi>Henry</hi> the ſevenths Chappell in the ſame order as on the Night before; and then doing the ſame Reverence, where they heard Divine Service, and took this Oath, which was read to them by Sir <hi>Edward Walker,</hi> before the ſaid Lord Commiſſioners who were ſeated in the midſt of the Chappell near the Altar.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="oath">
+                        <pb n="6" facs="tcp:100619:4"/>
+                        <!-- PDF PAGE 93 -->
+                        <head>The Oath.</head>
+                        <opener>
+                           <salute>Right Dear Brethren,</salute>
+                        </opener>
+                        <p>GReat worſhip be this Order to every one of you; you ſhall Honour God above all things, you ſhall be ſtedfaſt in the Faith of Chriſt, and the ſame Maintain, and Defend to your Pow<g ref="char:EOLhyphen"/>er. You ſhall love your Soveraign above all earthly things, and for your Soveraign Right and Dignity, Live and Dye: You ſhall defend Mai<g ref="char:EOLhyphen"/>dens, Widdows and Orphans in their Rights; you ſhall ſuffer no Extortion, as far as you may, nor ſit in place where any wrong judgement ſhall be given to your knowledge; and as Great Ho<g ref="char:EOLhyphen"/>nour, be this Order to you, as every it was to any of your Progenitors, or Others.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>This done, and the Bible kiſs'd, they return'd in the ſame order they came to the <hi>Painted Chamber,</hi> and there put off their Hermits Weed, and were then roab'd with the habit of their Order, which was a Mantle and Surcoat of red Taffaty lin'd and edg'd with white Sarcenet, and thereto faſtned two long ſtrings of white ſilk, with Buttons and Taſſels of red Silk and Gold, and a pair of White Gloves tied to them, a White Hat, and White Feather: Thus attir'd, they came to the
+<pb n="7" facs="tcp:100619:4"/>
+               <!-- PDF PAGE 93 -->Court of Requeſts, where a noble dinner was prepa<g ref="char:EOLhyphen"/>red for them at his Majeſties charge alſo, ſerved up by his Majeſties Servants and Yeomen of the Guard, the Kings Kettle-Drum and Trumpets ſound<g ref="char:EOLhyphen"/>ing.</p>
+            <p>Dinner being done, each Knight had a Sword, the Pummell whereof and Croſs-Hilt were gilt, a Scab<g ref="char:EOLhyphen"/>bard of White Leather, a Girdle and Belt of the like and gilt Spurs carried by their Pages, then they pro<g ref="char:EOLhyphen"/>ceeded to the Old Palace-Yard, where they took Horſe, the Senior firſt, and the Heralds before them in their Coats, they Rode round the New Pa<g ref="char:EOLhyphen"/>lace-Yard, and ſo thorough <hi>Kings-Street</hi> round about where <hi>Charing-Croſs</hi> ſtood, and then back a<g ref="char:EOLhyphen"/>gain to <hi>White-Hall,</hi> where they alighted, and after they had gone about the firſt Court, they were con<g ref="char:EOLhyphen"/>ducted by the Heralds up to the Banqueting-Houſe, where his Majeſty ſate under a Cloth of State to receive them, they were brought up ſix by ſix, each between his two Eſquires, with his Page carrying his Sword and Spurs before him. In their Approaches before his Ma<g ref="char:EOLhyphen"/>jeſty they made three Obeyſances, and each Knight be<g ref="char:EOLhyphen"/>ing preſented by his <abbr>Eſq</abbr> upon their knees to his Ma<g ref="char:EOLhyphen"/>jeſty, the Lord Chamberlain of his Majeſties Houſ<g ref="char:EOLhyphen"/>hold received the Knights Sword from the Page, and delivered it to his Majeſty, who then with the Sword of State (ready drawn) conferred upon them their reſpe<g ref="char:EOLhyphen"/>ctive Knighthoods by laying the Sword upon their Shoulders, and putting the preſented Sword about the Knights neck in ſuch ſort that it might hang on his left ſide, &amp; then his Majeſty put the Red Ribband, with the Order hanging at it, over the Knights head; which Or<g ref="char:EOLhyphen"/>der
+<pb n="8" facs="tcp:100619:5"/>
+               <!-- PDF PAGE 94 -->has three Crowns of Gold Enamelled with Green, and Incompaſſed with this Motto, <hi>In uno tria juncta.</hi> Which done, the Knight made his Obeyſan<g ref="char:EOLhyphen"/>ces of Gratitude to his Majeſty; And falling back the reſt were Knighted in like manner. The premi<g ref="char:EOLhyphen"/>er Knight had his Spurs put on by an Earl, according the Ancient Cuſtome, which was omitted in the reſt for Brevity-Sake.</p>
+            <p>After they were all Knighted, they went down through the Privy Gallery into his Majeſties Chap<g ref="char:EOLhyphen"/>pel, and there heard Divine Service, with Muſick and Anthems, and then went up ſix at a time to the Al<g ref="char:EOLhyphen"/>tar, and offered up their Swords, where the Lord Biſhop of <hi>London,</hi> Dean of his Majeſties Chappel Royal received them, and laid them upon the Altar, and afterwards reſtored them with this admonition.</p>
+            <p>
+               <q>
+                  <hi>By the Oath which you have taken this day, I Ex<g ref="char:EOLhyphen"/>hort and Admoniſh you, to uſe theſe Swords to the Glory of God, and Defence of the Goſpel, to the Maintenance of your Soveraigns Right and Honour, and to the upholding of Juſtice and Equity to your Power; <hi>So help you God.</hi>
+                  </hi>
+               </q>
+            </p>
+            <p>Whilſt the Biſhop laid the Swords upon the Altar, each Knight preſented an Angel of Gold into a Gold Baſon held by a Divine of his Majeſties Chappel, who ſtood on the left hand of the Biſhop to Receive them.</p>
+            <p>This done, the Knights returned from the Chap<g ref="char:EOLhyphen"/>pel; but at the door, the Kings Maſter Cook ſtood with his Apron on, and Chopping Knife in his hand, and as every Knight paſſed by, Said thus;</p>
+            <p>
+               <q>
+                  <hi>Noble Knight, You know what a great Oath you have taken, which if you keep, it will be great
+<pb n="9" facs="tcp:100619:5"/>
+                     <!-- PDF PAGE 94 -->Honour to you; but if you break it, I muſt back off your Spurrs at your Heeles, as unworthy of this Dig<g ref="char:EOLhyphen"/>nity, which God forbid.</hi>
+               </q>
+            </p>
+            <p>And for Redemption of his Spurrs, each Knight gave the Cook a Noble for his Fee. When they came to the great Hall, the Officers at Arms acquaint<g ref="char:EOLhyphen"/>ed them, that on Munday following they were to attend his Majeſty from the <hi>Tower</hi> to <hi>White-Hall</hi> on Horſeback, in the ſame Robes wherein they were Knighted.</p>
+            <p>Both the Knights, and Eſquires, to ride in diſtinct bodyes by themſelves: And on Tueſday the Knights to meet early in the <hi>Painted Chamber,</hi> in their Pur<g ref="char:EOLhyphen"/>ple Sattin Habits, thence to proceed before his Ma<g ref="char:EOLhyphen"/>jeſty to the Coronation at <hi>Weſtminſter-Abby,</hi> and to attend him at Dinner in <hi>Weſtminſter-Hall:</hi> All which was performed accordingly.</p>
+         </div>
+         <div type="list">
+            <head>A perfect <hi>LIST</hi> of the Knights of the Honou<g ref="char:EOLhyphen"/>rable <hi>Order</hi> of the <hi>Bath.</hi>
+            </head>
+            <list>
+               <item>Sir <hi>Edward Fiennes,</hi> Lord <hi>Clinton,</hi> Eldeſt ſon to the Earl of <hi>Lincoln.</hi>
+               </item>
+               <item>Sir <hi>John Egerton,</hi> Lord <hi>Brackley,</hi> Eldeſt ſon to <hi>John</hi> Earl of <hi>Bridgwater.</hi>
+               </item>
+               <item>Sir <hi>Philip Herbert,</hi> ſecond ſon to the Earl of <hi>Pem<g ref="char:EOLhyphen"/>broke</hi> and <hi>Montgomery.</hi>
+               </item>
+               <item>Sir <hi>William Egerton,</hi> ſecond ſon to <hi>John</hi> Earl of <hi>Bridgwater.</hi>
+               </item>
+               <item>Sir <hi>Vere Fane,</hi> ſecond ſon to the Earl of <hi>Weſtmerland.</hi>
+               </item>
+               <item>Sir <hi>Charles Berkely,</hi> eldeſt ſon to the Lord <hi>Berkeley.</hi>
+               </item>
+               <item>
+                  <pb n="10" facs="tcp:100619:6"/>
+                  <!-- PDF PAGE 95 -->
+Sir <hi>Henry Bellaſis,</hi> eldeſt ſon to <hi>John</hi> Lord <hi>Bellaſis.</hi>
+               </item>
+               <item>Sir <hi>Henry Hyde,</hi> (now Vicount <hi>Cornberry</hi>) eldeſt Son to <hi>Edward</hi> Earl of <hi>Clarendon,</hi> Lord High Chance<g ref="char:EOLhyphen"/>lor of <hi>England.</hi>
+               </item>
+               <item>Sir <hi>Rowland Bellaſis,</hi> Brother to the Lord Viſcount <hi>Falconberge.</hi>
+               </item>
+               <item>Sir <hi>Henry Capel,</hi> ſon to the late Lord <hi>Capel,</hi> and Bro<g ref="char:EOLhyphen"/>ther to the now Earl of <hi>Eſſex.</hi>
+               </item>
+               <item>Sir <hi>John Vaughan,</hi> ſecond Son to <hi>Richard</hi> Earl of <hi>Car<g ref="char:EOLhyphen"/>bury.</hi>
+               </item>
+               <item>Sir <hi>Charles Stanley,</hi> Grand-child to <hi>William</hi> late Earl of <hi>Derby.</hi>
+               </item>
+               <item>
+                  <list>
+                     <head>Grand-children to the late Earl of <hi>Weſtmerland.</hi>
+                     </head>
+                     <item>Sir <hi>Francis Fane</hi>
+                     </item>
+                     <item>Sir <hi>Henry Fane</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Sir <hi>William Portman</hi> Baronet.</item>
+               <item>Sir <hi>Richard Temple</hi> Baronet. ☞</item>
+               <item>Sir <hi>William Ducy</hi> Baronet.</item>
+               <item>Sir <hi>Thomas Trevor</hi> Knight and Baronet.</item>
+               <item>Sir <hi>John Scudamore</hi> Baronet.</item>
+               <item>Sir <hi>William Gardner</hi> Baronet.</item>
+               <item>Sir <hi>Charles Cornwallis,</hi> ſon to <hi>Frederick</hi> Lord <hi>Corn<g ref="char:EOLhyphen"/>wallis</hi> Treaſurer of his MAJESTIES Houſhold.</item>
+               <item>Sir <hi>John Nicholas,</hi> eldeſt ſon to Sir <hi>Edward Nicho<g ref="char:EOLhyphen"/>las,</hi> His MAJESTIES Principal Secretary of State.</item>
+               <item>Sir <hi>John Monſon,</hi> ſon to Sir <hi>John Monſon.</hi>
+               </item>
+               <item>Sir <hi>Bourchier Wrey,</hi> ſon of Sir <hi>Chicheſter Wrey.</hi>
+               </item>
+               <item>Sir <hi>John Coventry,</hi> Grand-child to the Lord <hi>Coven<g ref="char:EOLhyphen"/>try.</hi>
+               </item>
+               <item>Sir <hi>Edward Hungerford.</hi>
+               </item>
+               <item>Sir <hi>John Knevet.</hi>
+               </item>
+               <item>Sir <hi>Philip Boteler</hi>
+               </item>
+               <item>Sir <hi>Adrian Scroop,</hi> ſon of Sir <hi>Gervas Scroop,</hi> who re<g ref="char:EOLhyphen"/>ceived
+<pb n="11" facs="tcp:100619:6"/>
+                  <!-- PDF PAGE 95 -->nineteen wounds at <hi>Edghill</hi> battle for His late MAJESTY.</item>
+               <item>Sir <hi>Richard Knightley.</hi>
+               </item>
+               <item>Sir <hi>Henry Heron,</hi> ſon of Sir <hi>Edward Heron.</hi>
+               </item>
+               <item>Sir <hi>John Lewknor.</hi>
+               </item>
+               <item>Sir <hi>George Brown.</hi>
+               </item>
+               <item>Sir <hi>William Tirringham.</hi>
+               </item>
+               <item>Sir <hi>Francis Godolphin.</hi>
+               </item>
+               <item>Sir <hi>Edward Bainton.</hi>
+               </item>
+               <item>Sir <hi>Grevil Verney.</hi>
+               </item>
+               <item>Sir <hi>Edward Harley,</hi> ſon of the late Sir <hi>Robert Harley.</hi>
+               </item>
+               <item>Sir <hi>Edward Walpoole.</hi>
+               </item>
+               <item>Sir <hi>Francis Popham.</hi>
+               </item>
+               <item>Sir <hi>Edward Wiſe.</hi>
+               </item>
+               <item>Sir <hi>Chriſtopher Calthrop.</hi>
+               </item>
+               <item>Sir <hi>Richard Edgcombe.</hi>
+               </item>
+               <item>Sir <hi>William Bromley.</hi>
+               </item>
+               <item>Sir <hi>Tho. Bridges.</hi>
+               </item>
+               <item>Sir <hi>Tho. Fanſhaw,</hi> ſon of Sir <hi>Tho. Fanſhaw.</hi>
+               </item>
+               <item>Sir <hi>John Denham,</hi> his <hi>MAJESTIES</hi> Surveyor Gene<g ref="char:EOLhyphen"/>rall, ſon of Sir <hi>John Denham,</hi> Lord Juſtice of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and Baron of his <hi>MAJESTIES</hi> Exchequer in <hi>England.</hi>
+               </item>
+               <item>Sir <hi>Nicholas Bacon.</hi>
+               </item>
+               <item>Sir <hi>James Altham.</hi>
+               </item>
+               <item>Sir <hi>Thomas Wendy.</hi>
+               </item>
+               <item>Sir <hi>John Bramſton,</hi> eldeſt ſon of Sir <hi>John Bramſton</hi> late Lord chief Juſtice of <hi>England.</hi>
+               </item>
+               <item>Sir <hi>George Freeman,</hi> ſon of Sir <hi>Ralph Freeman,</hi> one of his <hi>MAJESTIES</hi> Maſters of Requeſts.</item>
+               <item>Sir <hi>Nicholas Slanning,</hi> ſon to Sir <hi>Nicholas Slanning</hi> ſlain in his late <hi>MAJESTIES</hi> ſervice at <hi>Briſtow.</hi>
+               </item>
+               <item>
+                  <pb n="12" facs="tcp:100619:7" rendition="simple:additions"/>
+                  <!-- PDF PAGE 96 -->
+Sir <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ichard Ingoldsby.</hi>
+               </item>
+               <item>Sir <hi>John Rolle.</hi>
+               </item>
+               <item>Sir <hi>Edward Heath,</hi> ſon to Sir <hi>Edward Heath,</hi> lat<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lord chief Juſtice of <hi>England.</hi>
+               </item>
+               <item>Sir <hi>William Morley.</hi>
+               </item>
+               <item>Sir <hi>John Bennet.</hi>
+               </item>
+               <item>Sir <hi>Hugh Smith.</hi>
+               </item>
+               <item>Sir <hi>Simon Leech.</hi>
+               </item>
+               <item>Sir <hi>Henry Cheſter.</hi>
+               </item>
+               <item>Sir <hi>Robert Atkins,</hi> ſon to Sir ..... <hi>Atkins</hi> one of the Barons of his <hi>MAJESTIES</hi> Exchequer.</item>
+               <item>Sir <hi>Robert Gaier.</hi>
+               </item>
+               <item>Sir <hi>Richard Powle.</hi>
+               </item>
+               <item>Sir <hi>Hugh Ducy.</hi>
+               </item>
+               <item>Sir <hi>Stephen Hales.</hi>
+               </item>
+               <item>Sir <hi>Ralph Baſh.</hi>
+               </item>
+               <item>Sir <hi>Tho. Whitmore.</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
